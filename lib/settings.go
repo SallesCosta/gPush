@@ -3,7 +3,7 @@ package lib
 import (
 	"fmt"
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/sallescosta/bkrepo/helpers"
+	"github.com/sallescosta/gPush/helpers"
 )
 
 type errMsg error

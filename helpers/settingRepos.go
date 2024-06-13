@@ -3,7 +3,7 @@ package helpers
 import (
 	"fmt"
 	tea "github.com/charmbracelet/bubbletea"
-	lib "github.com/sallescosta/bkrepo/lib/textinput"
+	lib "github.com/sallescosta/gPush/lib/textinput"
 	"log"
 )
 

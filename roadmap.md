@@ -1,6 +1,6 @@
 ## Escopo Inicial
 
-1. **Nome da Aplicação**: A aplicação se chamará `bkrepo`.
+1. **Nome da Aplicação**: A aplicação se chamará `gPush`.
 2. **Tecnologias**: A aplicação será escrita em Go, utilizando as bibliotecas Cobra e Bubbletea.
 3. **Identificação do Repositório Original**: Ao ser executada, a aplicação deverá identificar o repositório remoto já definido no projeto (`originalRepo`).
 4. **Menu Inicial**: A aplicação apresentará um menu inicial com as seguintes opções:

@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/sallescosta/bkrepo/helpers"
-	"github.com/sallescosta/bkrepo/lib"
+	"github.com/sallescosta/gPush/helpers"
+	"github.com/sallescosta/gPush/lib"
 	"github.com/spf13/cobra"
 )
 

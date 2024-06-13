@@ -1,4 +1,4 @@
-module github.com/sallescosta/bkrepo
+module github.com/sallescosta/gPush
 
 go 1.21.7
 
