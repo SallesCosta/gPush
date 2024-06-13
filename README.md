@@ -1,4 +1,3 @@
-```markdown
 # gPush
 
 gPush is a CLI tool written in Go, designed to manage and push to two different Git repositories simultaneously. It is useful when you have a project that is mirrored in two different repositories.
@@ -41,6 +40,16 @@ If the secondary repository is not found or is undefined, the program will notif
 
 Once both repositories are set and there are no uncommitted changes, the program will display the original and secondary repositories and proceed to push to both of them.
 
+## Building from Source
+
+If you prefer to build the source code of gPush, follow the steps below:
+
+1. First, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/sallescosta/gPush.git
+```
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request.
@@ -48,4 +57,3 @@ Contributions are welcome! Please feel free to submit a pull request.
 ## License
 
 gPush is licensed under the MIT license. See the LICENSE file for more details.
-```
